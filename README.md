@@ -1,5 +1,5 @@
 # Nahuel Trovato
-## This is Cypress project for a QA Automation challenge
+## This is Playwright project for a QA Automation challenge
 
 - This project is an Playwright automation framework
 - Only for a challenge purposes
